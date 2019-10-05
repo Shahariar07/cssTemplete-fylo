@@ -4,7 +4,7 @@ body{
   /****************************************** first part *******************************/
 }
 .top_background{
-  background-image: url('./images/top_background.png');
+  background-image: url('../images/top_background.png');
   height: 750px;
   background-size: cover;
   position: relative;
@@ -113,7 +113,7 @@ input{
 
 /*******************************bottom box************************************/
 .bottom_container{
-  background-image: url('./images/bottom_background.png');
+  background-image: url('../images/bottom_background.png');
   height: 400px;
   margin-top: 30px;
   background-size: cover;
